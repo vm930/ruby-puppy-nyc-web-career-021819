@@ -7,7 +7,7 @@ class Dog
   end 
   
   def self.all
-    @@all
+    
   end 
   #need to fix this
   
