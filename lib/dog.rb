@@ -8,7 +8,7 @@ class Dog
   
   def self.all
     @@all.each do |dog|
-      "#{dog.name}"
+      "#{dog.name}\n"
     end 
   end 
   #need to fix this
